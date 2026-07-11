@@ -1,0 +1,7 @@
+# v24: fin de linea consistente entre las 3 compus (evita re-blobs de 13 MB por CRLF/LF)
+*.html text eol=lf
+*.pdf binary
+*.png binary
+*.pptx binary
+*.docx binary
+*.drawio text

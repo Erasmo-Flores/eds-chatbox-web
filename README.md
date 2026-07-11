@@ -5,7 +5,7 @@ App de capacitación sobre el **Ecosistema Digital de Salud (EDS)** — SNSP Tab
 Publicada con **GitHub Pages** para abrirse en el navegador del celular (Safari/Chrome) mediante un **enlace**, ya que la vista previa de iOS (WhatsApp/Correo) no ejecuta JavaScript.
 
 - Archivo único: `index.html` (se abre en el navegador).
-- Se genera desde `EDS_Chatbox.html` del repositorio privado `chatbox-eds`.
+- Se genera desde `EDS_Chatbox.html` del repositorio privado `eds-proyecto` (mediante el script `_deploy_web.ps1`).
 - `.nojekyll` evita que GitHub Pages procese el sitio con Jekyll.
 
 > Datos de las capturas: material de demostración/capacitación de las guías oficiales.
